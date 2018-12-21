@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">number picker</string>
+    <string name="random_heading">Here is a Random number between 0 and %1d</string>
+</resources>
